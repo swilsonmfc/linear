@@ -4,7 +4,7 @@ Linear Model &amp; Examples &amp; Talks
 ## Notebooks
 * LinearRegression.ipynb - Linear Regression Basics
 * Assumptions.ipynb - Review of assumptions of a OLS
-* Regularization.ipynb - Applying regularization to work against overfitting
+* Regularization.ipynb - Applying regularization to fight overfitting
 
 ## Datasets & Examples
 * insurance.csv
