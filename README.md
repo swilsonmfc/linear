@@ -7,4 +7,6 @@ Linear Model &amp; Examples &amp; Talks
 * Regularization.ipynb - Applying regularization to fight overfitting
 
 ## Datasets & Examples
-* insurance.csv
+* Insurance.ipynb
+  * insurance.csv
+  * insurance-ex.csv (3-4% Missing)
